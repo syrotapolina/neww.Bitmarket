@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.button {
+    background-color: #6AC054;
+    color: black;
+    text-decoration: none;
+    padding: 10px 10px 5px 10px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+article {
+    background-color: white;
+    padding: 15px 30px;
+    width: 400px;
+    margin: 15px 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #6DBE60;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: #BFCCC0;
+    padding: 15px ;
+    display: flex;
+}
+
+footer a {
+    margin-right: 15px ;
+    padding-top: 15px;
+}
+
+footer p {
+    font-size: 24px;
+    padding: 5px;
+
+}
+main h1{
+    color: white;
+}
